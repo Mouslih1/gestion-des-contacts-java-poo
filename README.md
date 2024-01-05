@@ -31,6 +31,6 @@ Le programme principal se trouve dans la classe `Main`. Il utilise un menu simpl
 
 ## Utilisation
 
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/votre-repo.git`
+1. Clonez le dépôt : `git clone https://github.com/Mouslih0/gestion-des-contacts-java-poo.git`
 2. Compilez le code : `javac Main.java`
 3. Exécutez le programme : `java Main`
